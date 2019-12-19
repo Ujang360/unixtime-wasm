@@ -28,11 +28,11 @@ wasm-pack build --release
 
 ```bash
 cd example-www
-npm install
+yarn
 ```
 
 ### STEP 3: Run
 
 ```bash
-npm run start
+yarn start
 ```
