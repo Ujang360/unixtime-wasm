@@ -1,0 +1,6 @@
+[project]
+name = "ujang-unixtime-wasm"
+slug = "ujang-unixtime-wasm"
+
+[amem]
+server = "https://amem.flusci.org"
